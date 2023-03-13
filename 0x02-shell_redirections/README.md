@@ -6,3 +6,5 @@ Task 3: Script to display content of two files
 Task 4: Script to display last 10 lines of /etc/passwd
 Task 5: Script to display first 10 lines of /etc/passwd
 Task 6: Script to print 3rd line of file iacta
+Task 7: Script to create funny named file with text Best School in it
+Task 8: Script to write the results of ls -la command in a file
