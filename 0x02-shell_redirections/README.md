@@ -8,3 +8,4 @@ Task 5: Script to display first 10 lines of /etc/passwd
 Task 6: Script to print 3rd line of file iacta
 Task 7: Script to create funny named file with text Best School in it
 Task 8: Script to write the results of ls -la command in a file
+Task 9: Script to duplicate last line of a file
