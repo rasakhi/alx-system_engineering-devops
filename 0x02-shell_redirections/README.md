@@ -5,3 +5,4 @@ Task 2: Script to display content of one file
 Task 3: Script to display content of two files
 Task 4: Script to display last 10 lines of /etc/passwd
 Task 5: Script to display first 10 lines of /etc/passwd
+Task 6: Script to print 3rd line of file iacta
