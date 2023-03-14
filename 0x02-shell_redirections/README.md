@@ -16,3 +16,4 @@ Task 13: Script to print only words that appear exactly once
 Task 14: Script to display lines with the pattern root from /etc/passwd file
 Task 15: Script to display the num of lines that contain bin in /etc/passwd file
 Task 16: Script to display lines containing root and 3 lines after them in /etc/passwd file
+Task 17: Script to display lines that do not contain bin in /etc/passwd
