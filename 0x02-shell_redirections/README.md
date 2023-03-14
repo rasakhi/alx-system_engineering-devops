@@ -14,3 +14,4 @@ Task 11: Script to count number of dirs and sub dirs in cwd
 Task 12: Script to list the 10 newest files in a cwd
 Task 13: Script to print only words that appear exactly once
 Task 14: Script to display lines with the pattern root from /etc/passwd file
+Task 15: Script to display the num of lines that contain bin in /etc/passwd file
