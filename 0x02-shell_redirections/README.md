@@ -18,3 +18,4 @@ Task 15: Script to display the num of lines that contain bin in /etc/passwd file
 Task 16: Script to display lines containing root and 3 lines after them in /etc/passwd file
 Task 17: Script to display lines that do not contain bin in /etc/passwd
 Task 18: Script to display all lines of /etc/ssh/sshd_config starting with a letter
+Task 19: Script to replace A and c from input with Z and e respectively
