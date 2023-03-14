@@ -12,3 +12,4 @@ Task 9: Script to duplicate last line of a file
 Task 10: Script to delete all .js files in cwd
 Task 11: Script to count number of dirs and sub dirs in cwd
 Task 12: Script to list the 10 newest files in a cwd
+Task 13: Script to print only words that appear exactly once
