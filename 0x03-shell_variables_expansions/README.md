@@ -10,3 +10,4 @@ Task 7: script that creates a new global variable
 Task 8: Script to print result of addition of 128 to TRUEKNOWLEDGE variable
 Task 9: Script to print result of POWER divided by DIVIDE
 Task 10: Script to display the results of BREATH to the poser of LOVE
+Task 11: script to convert a number in BINARY var from base 2 to base 10
