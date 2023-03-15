@@ -6,3 +6,4 @@ Task 3: Script that counts num of dir in the PATH
 Task 4: Script that lists enviromental variables
 Task 5: Create a script that list all var and env var and fun
 Task 6: Script that creates a new local variable
+Task 7: script that creates a new global variable
